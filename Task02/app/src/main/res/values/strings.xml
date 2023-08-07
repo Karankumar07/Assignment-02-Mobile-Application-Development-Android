@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SAtask02</string>
+    <string name="img1">img1</string>
+    <string name="welocme">Welcome Back</string>
+    <string name="img2">Img2</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="me">Remember Me</string>
+    <string name="forget">Forgot Password</string>
+    <string name="with">Or Login With</string>
+    <string name="img">Img</string>
+    <string name="member">New Member?</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="lname">Last Name</string>
+    <string name="last_name">Enter Last Name</string>
+    <string name="almember">Already Member?</string>
+    <string name="signin">SignIn</string>
+    <string name="now">Login now</string>
+    <string name="login_error">Login Error</string>
+</resources>

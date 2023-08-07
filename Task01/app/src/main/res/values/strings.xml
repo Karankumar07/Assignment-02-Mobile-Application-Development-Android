@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SAtask01</string>
+    <string name="kfc_image">KFC_Image</string>
+    <string name="welcome_to_kfc">Welcome To KFC</string>
+    <string name="login">Login</string>
+    <string name="img_2">Img_2</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="me">Remember Me</string>
+    <string name="forget">Forgot Password</string>
+    <string name="with">Or Login With</string>
+    <string name="img">img</string>
+    <string name="member">New Member?</string>
+    <string name="signup">SignUp</string>
+    <string name="name">First Name</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="lname">Last Name</string>
+    <string name="last_name">Enter your last Name</string>
+    <string name="almember">Already Member?</string>
+    <string name="signin">Sign In</string>
+    <string name="error">You are not signed up. Please sign up first.</string>
+    <string name="login_error">Login Error</string>
+    <string name="now">Now Login</string>
+</resources>
